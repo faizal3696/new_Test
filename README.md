@@ -28,6 +28,9 @@ Untuk menggunakan aplikasi ini, Anda dapat mengakses endpoint API yang telah dis
   - Metode: `POST`
   - Data: `{"s": "3943", "k": 1}`
 
+- **Running URL**:
+  -http://127.0.0.1:8000/check-weights?string=abbcccd&queries[]=1&queries[]=3&queries[]=9&queries[]=8
+
 ## Contoh Permintaan Menggunakan cURL
 
 ### Memeriksa Keseimbangan Bracket
